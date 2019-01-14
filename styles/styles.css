@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: rgb(247, 225, 166)
+}
+
+div {
+    margin-top: 5px
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: white
+}
